@@ -1,0 +1,28 @@
+,id,name,gender,assigend gender,source
+0,6259,Lorenz,,male,gender_guesser
+1,3091,"Hülsen, Leopoldine Christiane Dorothea (geb. Posern)",,female,gender_guesser
+2,1839,"Schelling, Gottliebin Marie (geb. Cleß)",,unknown,gender_guesser
+3,11701,"Schindler, Adolph Ferdinand",,male,gender_guesser
+4,558,"Schierstedt-Reichenwalde, August Wilhelm von",,male,gender_guesser
+5,2714,"Smith, George",,male,gender_guesser
+6,6347,"Briest, Friederike Marie Helene von (geb. von Luck)",,female,gender_guesser
+7,4144,"Wiedemann, Konrad Eberhard",,male,gender_guesser
+8,4844,(Sophie),,unknown,gender_guesser
+9,4856,"Schweinitz, Hans Julius von",,male,gender_guesser
+10,4861,"Eisenstück, Julie",,female,gender_guesser
+11,4896,Mynheer Van Papst (Familie),,unknown,gender_guesser
+12,4891,"Wenner, Franz",,male,gender_guesser
+13,11560,"Bethmann-Metzler, Eduard",,male,gender_guesser
+14,14735,"Louis, Georg Friedrich",,male,gender_guesser
+15,14734,"Stromeyer, Louise, geb. Louis",,female,gender_guesser
+16,3240,"Hunter, Wilhelmine (Minna) Sophie (geb. Spall, spätere Schlegel, gesch. Büchting)",,female,gender_guesser
+17,12757,"Kestner, Louise Amalie Henriette Antoinette",,female,gender_guesser
+18,5362,"Stieglitz, Sophie Jeanette (Jente, geb. Ephraim)",,female,gender_guesser
+19,12784,"Jacobi, Christian Leonhard",,male,gender_guesser
+20,12775,"Pauly, Michael Rudolf",,male,gender_guesser
+21,12134,"Pfirt, Maria Franziska (geb. von Venningen)",,female,gender_guesser
+22,8349,"Manteuffel, Johanne von (geb. von Wagner)",,female,gender_guesser
+23,5544,"Fiedler, Friedrich Wilhelm",,male,gender_guesser
+24,4346,"Zapf, Johann Justin",,male,gender_guesser
+25,8945,"Herrmann, M. G.",,unknown,gender_guesser
+26,8709,"Schelling, Gottlieb",,male,gender_guesser
